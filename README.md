@@ -11,14 +11,24 @@ Diverging from traditional reservoir computing methods, ACT_Reservoir innovates 
 As we navigate these new waters, especially in overcoming the challenges of network training, our project is in a state of active exploration and development. We encourage collaboration and input from the broader community, as we advance in this exciting area of AI and neural network research, drawing inspiration from both Turing's theoretical framework and the human brain's architecture.
 
 ## Ideas and references to literature:
--It's already provent that such architecture represents a "finite memory approximation" of an Universal Turing Machine. If linked to an infinite external memory this can achieve turing completeness.
--In reality, this architecture would be turing complete even without infinite external memory, but with the assumption that every rational value could be attribuited to weights, in the real world we have finite precision numbers so this would be impossible in practice.
--Anyway, even with a low number of neurons this network would be able to model very complex algorithms, due to the dense and looping inter-neuronal connections. So with a sufficiently high number of neurons it can be used to model language, arithmetics and any kind of task, and the required number of parameters would be much lower than transformer networks since by using looping we can perform complex operations with less neurons.
--This network tries to build global approximation of function, not only local ones like in feed-forward networks or even transformers without external context.
 
--> https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf [On The Computational Power Of Neural Nets]
--> https://arxiv.org/abs/1603.08983 [Adaptive Computation Time for Recurrent Neural Networks]
--> https://doi.org/10.5281/zenodo.7637563 [Self Control Reservoir Network : enhancing intelligence for Neural Networks] (this is only a proposal paper, not published)
+1. **Finite Memory Approximation of a Universal Turing Machine**: 
+   ACT_Reservoir embodies a "finite memory approximation" of a Universal Turing Machine, as outlined in foundational research (e.g., Siegelmann, 1992). This architecture, when linked with an infinite external memory, has the potential to achieve Turing completeness, demonstrating its vast computational capabilities.
+
+2. **Turing Completeness and Real-World Limitations**: 
+   In theory, the architecture could attain Turing completeness even without infinite external memory, provided each weight could assume any rational value (Siegelmann, 1992). However, the practical limitation of finite precision in real-world computational systems constrains this potential, highlighting the gap between theoretical models and practical implementations.
+
+3. **Efficiency in Complex Algorithm Modeling**: 
+   Despite the limitations in precision, the network's densely connected, looping structure enables it to model highly complex algorithms, even with a relatively low neuron count. This efficiency suggests that, with a sufficiently large number of neurons, the network could effectively model language, arithmetic, and a variety of tasks, outperforming traditional transformer networks in terms of parameter efficiency. The looping mechanism allows for complex operations with fewer neurons, a notable advancement over existing models.
+
+4. **Global Function Approximation**: 
+   Unlike feed-forward networks or even transformers that often focus on local function approximation, ACT_Reservoir aims to build global approximations of functions. This approach allows for a more holistic understanding and representation of the data and processes it is modeling, potentially offering a more robust and versatile framework for neural network applications.
+
+### References
+- Siegelmann, H. T. (1992). "On The Computational Power Of Neural Nets." [Link](https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf)
+- Graves, A. (2016). "Adaptive Computation Time for Recurrent Neural Networks." [Link](https://arxiv.org/abs/1603.08983)
+- Giacomo Bocchese. (2023). "Self Control Reservoir Network: enhancing intelligence for Neural Networks." (2023). [Link](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published.)
+
 
 
 ## Working mechanism
