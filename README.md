@@ -41,7 +41,8 @@ Upon initialization, the network is configured with specific dimensions for inpu
 
 The core computational process occurs in the *predict* method. Here, the network takes an input vector, initializes a state vector that represents the current state of the network, and iterates through computational steps. At each step, the network's state is updated by applying the ReLU activation function to the matrix product of the network's weights and the current state. This process is repeated until a defined halting condition is met, which is determined by the value in the halting unit of the state vector.
 
-\mathbf{x}_{t+1} = \text{ReLU}(\mathbf{W} \mathbf{x}_t) \quad \text{if } \mathbf{x}[\text{halting index}] < 1
+![image](https://github.com/BoccheseGiacomo/ACT_Reservoir/assets/104854120/0dab7915-1846-4e4d-9db4-1c53b37b7daa)
+
 
 
 The state vector is divided into segments corresponding to the input, hidden, and output layers. The network's output is extracted from the relevant segment of the state vector upon completion of the iteration process.
