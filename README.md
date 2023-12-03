@@ -44,6 +44,8 @@ The core computational process occurs in the *predict* method. Here, the network
 The state vector is divided into segments corresponding to the input, hidden, and output layers. The network's output is extracted from the relevant segment of the state vector upon completion of the iteration process.
 
 ### There are three versions of the file:
--act_reservoir.py -> class of the network implementation
--act_reservoir_backprop.ipynb -> includes an implementation of backprop to try to train it (not properly working, i think)
--act_reservoir_zeroth.ipynb -> tries to optimize weights with zeroth order opt. algorithms (more indicated for this task)
+-**act_reservoir.py** -> class of the network implementation
+
+-**act_reservoir_backprop.ipynb** -> includes an implementation of backprop to try to train it (not properly working, i think)
+
+-**act_reservoir_zeroth.ipynb** -> tries to optimize weights with zeroth order opt. algorithms (more indicated for this task)
