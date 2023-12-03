@@ -1,7 +1,8 @@
 # ACT_Reservoir
 Adaptive Computation Time Applied to Reservoir Networks.
 It's an extension of my other work : [Self Control Reservoir Network](https://github.com/BoccheseGiacomo/SCRN----Pre-Alpha-version)
-Since i discovered that with that work i "re-invented" the ACT paradigm, and after discovering the work of A.Graves on ACT i decided to put that name to my work rather then SCRN.
+
+Since i discovered that with that work i re-invented the ACT paradigm in a totally independent way, and after discovering the work of A.Graves on ACT i decided to put that name to my work rather then SCRN.
 
 ## Abstract
 ACT Reservoir embarks on a pioneering journey to establish a neural network architecture that achieves (finite memory) Turing completeness, a milestone made possible through the integration of adaptive computation time (ACT). This project leverages the unique capabilities of ACT, such as halting and flow control, to enable a neural network that can not only process complex tasks but also make decisions about looping and task termination, akin to Turing's conceptual machine.
