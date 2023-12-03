@@ -10,7 +10,7 @@ Diverging from traditional reservoir computing methods, ACT_Reservoir innovates 
 
 As we navigate these new waters, especially in overcoming the challenges of network training, our project is in a state of active exploration and development. We encourage collaboration and input from the broader community, as we advance in this exciting area of AI and neural network research, drawing inspiration from both Turing's theoretical framework and the human brain's architecture.
 
-## Ideas and references to literature:
+## Ideas:
 
 1. **Finite Memory Approximation of a Universal Turing Machine**: 
    ACT_Reservoir embodies a "finite memory approximation" of a Universal Turing Machine, as outlined in foundational research (e.g., Siegelmann, 1992). This architecture, when linked with an infinite external memory, has the potential to achieve Turing completeness, demonstrating its vast computational capabilities.
@@ -24,7 +24,7 @@ As we navigate these new waters, especially in overcoming the challenges of netw
 4. **Global Function Approximation**: 
    Unlike feed-forward networks or even transformers that often focus on local function approximation, ACT_Reservoir aims to build global approximations of functions. This approach allows for a more holistic understanding and representation of the data and processes it is modeling, potentially offering a more robust and versatile framework for neural network applications.
 
-### References
+## References
 - Siegelmann, H. T. (1992). "On The Computational Power Of Neural Nets." [Link](https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf)
 - Graves, A. (2016). "Adaptive Computation Time for Recurrent Neural Networks." [Link](https://arxiv.org/abs/1603.08983)
 - Giacomo Bocchese. (2023). "Self Control Reservoir Network: enhancing intelligence for Neural Networks." (2023). [Link](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published.)
