@@ -27,7 +27,7 @@ As we navigate these new waters, especially in overcoming the challenges of netw
 ## References
 - Siegelmann, H. T. (1992). ["On The Computational Power Of Neural Nets."](https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf)
 - Graves, A. (2016).  ["Adaptive Computation Time for Recurrent Neural Networks."](https://arxiv.org/abs/1603.08983)
-- Giacomo Bocchese. (2023).["Self Control Reservoir Network: enhancing intelligence for Neural Networks."](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published.)
+- Giacomo Bocchese (2023). ["Self Control Reservoir Network: enhancing intelligence for Neural Networks."](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published)
 
 
 
