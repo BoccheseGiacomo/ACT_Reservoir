@@ -25,9 +25,9 @@ As we navigate these new waters, especially in overcoming the challenges of netw
    Unlike feed-forward networks or even transformers that often focus on local function approximation, ACT_Reservoir aims to build global approximations of functions. This approach allows for a more holistic understanding and representation of the data and processes it is modeling, potentially offering a more robust and versatile framework for neural network applications.
 
 ## References
-- Siegelmann, H. T. (1992). "On The Computational Power Of Neural Nets." [Link](https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf)
-- Graves, A. (2016). "Adaptive Computation Time for Recurrent Neural Networks." [Link](https://arxiv.org/abs/1603.08983)
-- Giacomo Bocchese. (2023). "Self Control Reservoir Network: enhancing intelligence for Neural Networks." (2023). [Link](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published.)
+- Siegelmann, H. T. (1992). ["On The Computational Power Of Neural Nets."] (https://binds.cs.umass.edu/papers/1992_Siegelmann_COLT.pdf)
+- Graves, A. (2016).  ["Adaptive Computation Time for Recurrent Neural Networks."] (https://arxiv.org/abs/1603.08983)
+- Giacomo Bocchese. (2023).["Self Control Reservoir Network: enhancing intelligence for Neural Networks."](https://doi.org/10.5281/zenodo.7637563) (Note: This is a proposal paper and not yet published.)
 
 
 
