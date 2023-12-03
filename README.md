@@ -11,7 +11,7 @@ This novel approach integrates ACT with reservoir computing networks, an unexplo
 
 Diverging from traditional reservoir computing methods, ACT_Reservoir innovates by training all weights within the reservoir, emulating aspects of the human brain's adaptability. This not only enhances the network's learning capacity but also aligns more closely with how the human brain processes information. The integration of inputs and outputs directly into the reservoir further strengthens this resemblance, creating a unified and efficient processing system.
 
-As we navigate these new waters, especially in overcoming the challenges of network training, our project is in a state of active exploration and development. We encourage collaboration and input from the broader community, as we advance in this exciting area of AI and neural network research, drawing inspiration from both Turing's theoretical framework and the human brain's architecture.
+As we navigate these new waters, especially in overcoming the challenges of network training, our project is in a state of active exploration and development (expecially it's very hard to train). We encourage collaboration and input from the broader community, as we advance in this exciting area of AI and neural network research, drawing inspiration from both Turing's theoretical framework and the human brain's architecture.
 
 ## Ideas:
 
