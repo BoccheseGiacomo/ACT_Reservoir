@@ -1,8 +1,8 @@
 # ACT_Reservoir
 Adaptive Computation Time Applied to Reservoir Networks.
-It's an extension of my other work : [Self Control Reservoir Network](https://github.com/BoccheseGiacomo/SCRN----Pre-Alpha-version)
+It's an extension of my previous work : [Self Control Reservoir Network](https://github.com/BoccheseGiacomo/SCRN----Pre-Alpha-version)
 
-Since i discovered that with that work i re-invented the ACT paradigm in a totally independent way, and after discovering the close similarities of the work of A.Graves on ACT i decided to put that name to my work rather then SCRN and merging a bit the functionalities.
+Since i discovered that with SCRN I almost re-invented the ACT paradigm in a totally independent way, and after discovering the close similarities of the work of A.Graves on ACT I decided to put that name to my work rather then SCRN and merging a bit the functionalities.
 
 *Please note that this project is still in development phase and that many claims I make comes from theoretical and intuitive considerations rather than experimental results.*
 
