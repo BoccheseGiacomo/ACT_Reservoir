@@ -4,7 +4,7 @@ It's an extension of my other work : [Self Control Reservoir Network](https://gi
 
 Since i discovered that with that work i re-invented the ACT paradigm in a totally independent way, and after discovering the close similarities of the work of A.Graves on ACT i decided to put that name to my work rather then SCRN and merging a bit the functionalities.
 
-Please note that this project is still in development phase and that many claims i make comes from theoretical considerations rather than experimental results.
+*Please note that this project is still in development phase and that many claims i make comes from theoretical considerations rather than experimental results.*
 
 ## Abstract
 ACT Reservoir is an explorative project aimed at developing a neural network architecture with the potential for (finite memory) Turing completeness. This endeavor is made possible by integrating Adaptive Computation Time (ACT). The project utilizes the distinctive features of ACT, including halting and flow control, to facilitate a network capable of handling complex tasks and making informed decisions about process looping and task termination. This approach draws inspiration from Turing's theoretical framework, aiming to implement these principles in a practical, modern neural network context.
