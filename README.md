@@ -51,7 +51,7 @@ The state vector is divided into segments corresponding to the input, hidden, an
 
 ### There are three versions of the file:
 
--The task i'm teaching it is integer multiplication.
+-The task i'm teaching it is integer multiplication. Unfortunately the training doesn't converge to a near-zero error solution, but this is due to training problems and not architectural problems, since we can prove theoretically that there exist a weight set that can model exactly (error=0) any positive integer multiplication.
 
 -**act_reservoir.py** -> class of the network implementation
 
